@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="progressbarone" type="id" />
+    <item name="progressBartwo" type="id" />
+    <item name="progressbartwo" type="id" />
+    <item name="subjectview" type="id" />
+    <item name="myrecyclerView" type="id" />
+</resources>
